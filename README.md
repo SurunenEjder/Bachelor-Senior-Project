@@ -29,6 +29,9 @@ This project involves the design and implementation of an autonomous line-follow
 
 ## 🔌 Circuit Diagram
 
+Senior Project Diagram.jpg
+![Circuit Diagram](Senior Project Diagram.jpg)
+
 The robot uses the following pin configuration:
 
 - **IR Sensors**: Pins 10, 11, 12
