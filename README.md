@@ -29,8 +29,7 @@ This project involves the design and implementation of an autonomous line-follow
 
 ## 🔌 Circuit Diagram
 
-Senior Project Diagram.jpg
-![Circuit Diagram](Senior Project Diagram.jpg)
+![Diagram](Senior_Project_Diagram.png)
 
 The robot uses the following pin configuration:
 
