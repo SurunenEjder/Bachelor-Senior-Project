@@ -1,6 +1,6 @@
 # Autonomous Line-Following Robot with Obstacle Avoidance
 
-![Robot Image](media/image1.png)
+![Robot Image](image.png)
 
 ## 📋 Project Overview
 
